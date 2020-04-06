@@ -1,0 +1,20 @@
+Statlog Data column names in excel
+
+A= age
+B=Sex
+C= cp
+D = trestbp
+E = chol
+F= fbs
+G = restecg
+H = thalach
+I = exang
+J= oldpeak
+K =slope
+L = ca
+M = thal
+N = converted class label to 0 and 1
+
+Cleveland Data set represented as cleve3
+
+In excel  file, Columns P, Q, R, S , T are transformed features into categorical for Naïve Bayes. The transformation is done in spss
